@@ -1,0 +1,10 @@
+# GinFramework
+export GIN_MODE=release
+export GIN_PORT=8000
+
+# MySQL
+export MYSQL_HOST=
+export MYSQL_PORT=3306
+export MYSQL_NAME=
+export MYSQL_USER=
+export MYSQL_PASSWORD=
