@@ -24,7 +24,7 @@ If you haven't created the table yourself, uncomment the next line and run it.
 
 Then gorm will automatically create the table
 ```shell
-# services/database/mysql.go 43~54 line
+# repositories/mysql.go 46~57 line
 
 ## Before
 	// AutoMigrate
